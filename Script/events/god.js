@@ -12,7 +12,7 @@ module.exports.config = {
     "log:subscribe"
   ],
   version: "3.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "No Bi Ta",
   description: "Bot add/remove notification with text and Canvas banner",
   envConfig: {
     enable: true
