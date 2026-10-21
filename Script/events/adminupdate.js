@@ -22,7 +22,7 @@ module.exports.config = {
     "log:thread-color"
   ],
   version: "4.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "No Bi Ta",
   description: "group update notification",
   envConfig: {
     sendNoti: true,
