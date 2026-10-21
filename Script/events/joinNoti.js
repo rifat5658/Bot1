@@ -14,7 +14,7 @@ module.exports.config = {
     name: "joinNoti",
     eventType: ["log:subscribe"],
     version: "2.7.0",
-    credits: "SHAHADAT SAHU",
+    credits: "No Bi Ta",
     description: "Bot join notification with Canvas banner",
     dependencies: {
         axios: "",
@@ -1216,13 +1216,13 @@ ${botPrefix}Help
 ${botPrefix}Info
 ${botPrefix}Admin
 
-★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 কে নক করতে পারেন ★
+★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন No Bi Ta কে নক করতে পারেন ★
 
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/100044713412032
-➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/8801882333052
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/no.bi.ta.872952
+➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ No Bi Ta`;
 
             return api.sendMessage(
                 {
