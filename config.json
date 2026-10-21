@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "༒︎ 𝑵𝒐 𝑩𝒊 𝑻𝒂’𝒔 ⌁ 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 ༒︎",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -23,12 +23,10 @@
     "😠"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "no.bi.ta.872952"
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "no.bi.ta.872952"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
